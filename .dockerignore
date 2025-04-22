@@ -1,0 +1,5 @@
+# Don't copy these files into Docker image
+.git
+*.md
+*.log
+vendor
